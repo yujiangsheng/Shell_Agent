@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# OpenShrimp 运行时
+.openshrimp/
+
+# 生成的子智能体（用户自定义后建议自行管理）
+agents/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
